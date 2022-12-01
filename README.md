@@ -6,11 +6,11 @@ Sphere and Ackley functions optimization with Differential Evolution and Evoluti
 DE
 
 ```bash
-$ ./LaunchDifferentialEvolution.sh
+$ ./DE/LaunchDifferentialEvolution.sh
 ```
 
 ES
 
 ```bash
-$ ./LaunchEvolutionStrategy.sh
+$ ./ES/LaunchEvolutionStrategy.sh
 ```
